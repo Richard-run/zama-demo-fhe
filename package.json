@@ -1,0 +1,12 @@
+{
+  "name": "zama-fhe-demo",
+  "version": "1.0.0",
+  "description": "Zama Concrete NPM Demo - Encrypted Addition",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "@zama-ai/concrete": "^1.0.0"
+  }
+}

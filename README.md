@@ -1,2 +1,3 @@
-# zama-demo-fhe
-A basic demo using Zama Concrete NPM to add encrypted numbers
+# Zama FHE Demo
+
+A simple example using Zama's Concrete NPM SDK to add two encrypted numbers.
